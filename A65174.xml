@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox juvenilis, or, The loyal apprentices vindication of the design and promoters of their late humble address to His Majesty</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65174</idno>
+            <idno type="STC">Wing V720</idno>
+            <idno type="STC">ESTC R1057</idno>
+            <idno type="EEBO-CITATION">12368125</idno>
+            <idno type="OCLC">ocm 12368125</idno>
+            <idno type="VID">60473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60473)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 903:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox juvenilis, or, The loyal apprentices vindication of the design and promoters of their late humble address to His Majesty</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Read,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:60473:1"/>
+            <pb n="1" facs="tcp:60473:1" rendition="simple:additions"/>
+            <head>VOX J<g ref="char:V">Ʋ</g>VENILIS: <hi>OR, THE <hi>Loyal Apprentices</hi> VINDICATION OF THE</hi> Deſign and Promoters of their late Humble Addreſs to His Majeſty.</head>
+            <p>IT has always been the Policy of our <hi>Phanatick Machivilians</hi> to obtrude the Execu<g ref="char:EOLhyphen"/>tion of their Rebellious Deſigns upon the moſt Raſh and unthinking ſort of men: And upon this Account we find in the Story of the late Times, That the giddy Multitude being betray'd into Inſurrections by the ſpecious Pretences of Contending for their own Liberties and Rights, was thought the moſt likely Way to work the Subverſion of the Government, as well Civil as Eccleſiaſtical.</p>
+            <p>And for the ſame Reaſon were ſeveral Apprentices of the City of <hi>London</hi> impoſed upon, and made uſe of by the Broachers of that horrid Rebellion: for that ſome of them wanting the benefit of Education, and all, of Experience, they might be the more eaſily inſtigated to give the firſt Onſet upon Magiſtracy. Accordingly in the Year 1640. <hi>May,</hi> 9. We find a Paper fixed at the <hi>Exchange,</hi> to Exhort the Apprentices to Sack the Houſe of the Lord Arch-Biſhop of <hi>Canterbury</hi> at <hi>Lambeth;</hi> which about 500 of them were drawn in to Attempt accordingly, though they were there repulſed, and ſome of them afterwards made an Example for their Inſolence: And this we may con<g ref="char:EOLhyphen"/>clude was a Project not Originally their own, but of ſome Factious Engineers, who thought it their Intereſt to ſet them on work.</p>
+            <p>The next Account we have of them in the Hiſtory of thoſe Times, is when no leſs than 600 were diſpoſed to March to <hi>White-Hall</hi> to demand Juſtice againſt the Earl of <hi>Strafford,</hi> whereof the greater number were Apprentices.</p>
+            <p>And again to draw nearer in their Affronts to Majeſty, we after hear of ſeveral Mutinous Apprentices, who in a Tumultuous manner reſorted to <hi>White-Hall</hi> and <hi>Weſtminſter,</hi> to the Affrightment of the King himſelf.</p>
+            <p>And to fill up the meaſure of their Wickedneſs, In the next place we find many of them in the Year 1648. Liſting themſelves into <hi>Eſſex</hi>'s Army, by the invitation of the Rebells, who had taken care to free them from their Servitude upon that Condition.</p>
+            <p>But the Ingenuous Lads could not always be ſo abuſed, For when his Late Majeſty was a Priſoner, in deteſtation of ſo vile an Act, we find the Apprentices take Courage enough to ſet upon a part of the Trained Bands, and very fairly rout them; divide themſelves into Parties, whereof one goes towards <hi>White-Hall,</hi> and was there ſup<g ref="char:EOLhyphen"/>preſſed, But at Night they rally again, Surpriſe the two Priſons of <hi>Newgate</hi> and <hi>Lud<g ref="char:EOLhyphen"/>gate,</hi> ſeize a Drake-Piece from the Lord Mayor, and in the Morning labour to get
+<pb n="2" facs="tcp:60473:2"/>Arms, and break open ſome Saleſmens Shops of Ammunition, and muſter the Maga<g ref="char:EOLhyphen"/>zine at <hi>Leaden-Hall,</hi> Crying out FOR GOD AND KING CHARLES: and though by this buſtle they could do the King no Service, yet we find that Loyalty ſtill ſprung in their Hearts; for when General <hi>Monk</hi> was on his Journey to <hi>London,</hi> he receives Advice from Commiſſary <hi>Clarges,</hi> that ſeveral Apprentices had made Inſurrection in Favour of him againſt <hi>Fleetwood</hi>'s Party, and had declar'd for the reſtoring A Parliament and Magiſtracy, which they ſaid was ſuppreſſed by the Committee of Safety (who (by the way) had Emitted a Proclamation to prevent getting hands to Petitions:) In this Affair were Twenty wounded, and Two killed, and at laſt they were all Defeated by Coll. <hi>Hewſon.</hi>
+            </p>
+            <p>In ſhort, we find our <hi>London</hi> Youngſters bravely veering about, and demonſtrating their earneſt deſire to reeſtabliſh King CHARLES the Second, in His Rightful Throne.</p>
+            <p>And there he is, and that he may there ſit undiſturb'd and ſafe from the Treaſo<g ref="char:EOLhyphen"/>nable Deſigns of any kind of Rebel either Papiſt or Phanatick, 'tis the firm Reſolution of the Loyal Apprentices of the City of <hi>London</hi> never to be wanting to demonſtrate their Loyalty and Readineſs to aſſiſt the King with their Lives and Fortunes too when they come to enjoy them: And that no Villain ſhould dare to affront their good Prince, nor any ſly inſinuating Rebel have any Hopes to corrupt their Allegiance as they did heretofore, they have declar'd to the World their ſteady Loyalty, by their late Addreſs which was preſented to his Majeſty, and received a favourable Acceptance.</p>
+            <p>The Subſcription of which by many Thouſand Hands, is not all neither, For we make no doubt but that there are Twenty Thouſand more, as Brisk and Valiant Young Men that have not had the opportunity to give this Teſtimony of their Loyalty, or elſe have been forbid to do it by their Ill-Principl'd Maſters, or elſe whoſe Names are Loſt in Gathering by the Malicious Contrivance of no Good Subjects to his Ma<g ref="char:EOLhyphen"/>jeſty, whoſe wills are as ready, and their Reſolutions as ſtrong to ſtand by his Majeſty, and to Guard his Perſon from his Enemies under what names ſo ever diſtinguiſhed, and that think their Lives too little to ſpend in his Service: <hi>And let all the Enemies of King</hi> CHARLES II. <hi>take this for granted and Beware.</hi>
+            </p>
+            <p>But ſince a ſort of unmannerly Backbïters have endeavoured to repreſent the Deſign and Promoters of our Addreſs in as ugly a Shape as they could; We are reſolved to ſpeak a word in our own Vindication, where by the way we ſhall not do Mr. <hi>Janeway</hi> the honour to take any further Notice of his ſcandalous reflections than as they are common to others of his Church. But we will ſuppoſe whatſoever Objections Malice it ſelf can raiſe againſt a thing of this nature.</p>
+            <q>
+               <p>
+                  <hi>Firſt,</hi> Some ſuggeſt that we are ſet on work by Papiſts, Jeſuits, and the Lord knows who.</p>
+               <p>
+                  <hi>Secondly,</hi> Others, That the Authors and Deſigners of the Addreſs are ſcandalous Ruffians, as Mr. <hi>Janeway</hi> is pleaſed to call us.</p>
+               <p>
+                  <hi>Thirdly,</hi> That we procured Subſcriptions by indirect Means, drawing in idle Fellows by Pots of Ale: And that the Subſcribers are all Perſons of no Reputation.</p>
+               <p>
+                  <hi>Fourthly,</hi> Suppoſe we were never ſo good Boys, and did it for never ſo good Ends; yet, forſooth, it doth not belong to us, and that Apprentices ought not to meddle with State-Matters.</p>
+               <p>And <hi>Laſtly,</hi> That it is a ready way to create a miſunderſtanding amongſt the People, And that it being a kind of Combination, may cauſe a Diſturbance amongſt the Youth of the City.</p>
+            </q>
+            <p>For the firſt, <hi>That we were influenced by Papiſts,</hi> 'Tis falſe; for the Contrivers were all of the Proteſtant Religion, as it is now Eſtabliſhed by Law: And we are certain there was never a Jeſuit in any Corner of the Room where it was firſt Debated. And beſides, our very Addreſs declares the contrary; for Papiſts, as well as others, are the Party we aim at.</p>
+            <p>To the Second, <hi>That the Projectors of this Deſign are Scandalous Perſons and Ruffians.</hi> To the Suggeſters of this, the <hi>Scotch</hi>-man's Anſwer to <hi>Bellarmine</hi> is ſufficient; 'Tis a loud Lye: for we are all Honeſt, Sober Fellows, and born of honeſt Parents.</p>
+            <p>To the Third, <hi>That by indirect ways we procured Hands.</hi> We anſwer, that we never croſs'd the Water to the <hi>Hope</hi> on <hi>Bear-Garden</hi> days, to offer to get Hands there; nor were ever concerned to create a Bull-baiting, on purpoſe to draw the Rabble in, to fill up our Number, as ſome of the famous <hi>Eſſex</hi>-Patriots did to fill up their Petition for a
+<pb n="3" facs="tcp:60473:2"/>Parliament. We never went to any Country-Fairs, amongſt the Ballad-ſingers; nor in all Humility addreſſed our ſelves to the little Boys of a Free-School to pleaſure us with two or three hundred Hands. We never hired any one to ſubſcribe, nor ever told a Refuſer that we would put him in our black Book, as Mr. <hi>S. H.</hi> did thoſe that would not ſign his <hi>Good old Cauſe-Petition.</hi> We never called a Conventicle, to get the Well-Wiſhers together: but honeſtly left our Papers where we thought fit, though the Re<g ref="char:EOLhyphen"/>publican Rats had ſo little Manners to gnaw them in peices when they were full of Hands.</p>
+            <p>As to the Perſons that ſubſcribed, let thoſe have a care that ſcandalize any one Man of them.</p>
+            <p>And as to the next Objection, and that which has done Us much prejudice in our Proceedings, <hi>That we meddle with State-Matters that don't concern <g ref="char:V">Ʋ</g>s.</hi>
+            </p>
+            <p>We Anſwer, That truly we think it belongs as much to Us to Thank the <hi>KING</hi> for His Good Government, and to Teſtifie our Reſolutions to Serve and Defend Him, as it did the Porters and Broom-men that Subſerib'd Sir <hi>G</hi>'s. Petition, to tell His Majeſty when 'twas Good for Him <hi>to call a Parliament.</hi>
+            </p>
+            <p>But as for State Affairs, we find none in the Addreſs, we purpoſely did avoid it; and upon that account, though we love to hear talk of the Succeſſion going in the right Line, yet we ſaid never a word about it.</p>
+            <p>But if our Thanking His Majeſty for His Gratious DECLARATION be a mat<g ref="char:EOLhyphen"/>ter of State; we Declare, we thought it had been for the ſatisfaction of Us as well as Our Maſters, or any body elſe; for when the World made ſuch a Noiſe about the Diſſolution of the two laſt Parliaments, and ſome were ſo Impudent to ſpeak hard words of our <hi>KING</hi> about it; we were very glad at ſuch a time to ſee His Majeſty Condeſcend to tell the World, and Us amongſt the reſt, that He had very good Rea<g ref="char:EOLhyphen"/>ſon to do what he did, whereby He removed all cauſe of Complaints or Jealouſie.</p>
+            <p>Now as we are infinitely ſenſible of the Great Benefits and Advantages, which his Majeſty hath been pleaſed to hold forth unto us in This his moſt Gracious <hi>Declaration;</hi> ſo we likewiſe Account our ſelves bound, by All the Tyes of Loyalty and Gratitude, humbly to preſent our Dutiful Acknowledgements to the BEST OF SOVEREIGNS, and to declare unto the World our Firm and Unalterable Reſolutions to Expoſe our Lives and Fortunes in the Support, Maintenance and Defence of our King and his Go<g ref="char:EOLhyphen"/>vernment. And though the ſenſe of Honeſty, Juſtice and Allegiance was the Principal Motive that led us to This Addreſs, we had likewiſe ſome regard in it to the Vindica<g ref="char:EOLhyphen"/>tion of our Credits, from the Infamy that was caſt upon us by a Pack of Common Scrib<g ref="char:EOLhyphen"/>liing Raſcals, that made the whole Nation ring with the Story of a Conſpiracy among the Apprentices to Engage the Nation in new Troubles; and the City in a Deſperate and Bloody Tumult, Inſomuch that we could not do our ſelves Right, but by ſome Publick Manifeſtation of our Innocence.</p>
+            <p>
+               <hi>Laſtly,</hi> As to the Pretence of Thoſe that Enviouſly Reflect upon this our Proceeding, as a Deſign to Create Diviſions and Miſunderſtandings among his Majeſties Subjects, we have Diligently Enformed our ſelves concerning the Opinions and Practices of thoſe People: and we find them to be, for the moſt part Men of Dangerous Principles, as <hi>Anabaptiſts, Separatiſts,</hi> and other ſorts of <hi>Diſſenters</hi> from the <hi>Church,</hi> and no leſs <hi>Enemies</hi> to the <hi>Civil Government.</hi> So that their Quarrels to us is not for any fear they have of our Diſturbing the Publick Peace; but for the Diſappointment which our Con<g ref="char:EOLhyphen"/>junction hath given to their Deſigns; which they can never be able to put in Executi<g ref="char:EOLhyphen"/>on againſt ſo powerful an Oppoſition.</p>
+            <p>So that if they call it a <hi>Combination</hi> we muſt needs maintain that it is both an Honeſt and a Good One, and that it is ſo far ftom tending to make a Mutiny and Diſturbance, That it has given the City ſufficient ſecurity againſt both; For certainly our very Ad<g ref="char:EOLhyphen"/>dreſs it ſelf is ſufficient, to convince the World that we are ſenſible of our Duty to our Sovereign; and ſuppoſing that, The ſame Good Principle muſt neceſſarily influence us to pay that Obedience and Reſpect which is due to all thoſe that are in Authority under him: And ſeeing all the Subſcribers have therein really devoted themſelves to his Majeſties Intereſt, 'tis very improbable that they would make themſelves guilty of any thing ſo contrary and prejudicial thereunto, as are Mutinous and Diſorderly Inſur<g ref="char:EOLhyphen"/>rections.</p>
+            <pb n="4" facs="tcp:60473:3"/>
+            <p>And as the Intentions of our Hearts are Fair and Peaceable (for we will rather dye than entertain ſo much as the leaſt thought of any unlawful Enterprize) So was the <hi>Time</hi> that we Pitch'd upon for our Addreſs as Seaſonable too, and much more proper, than for the importunity of Peremptory and Factious Petitions. For when the <hi>Pha<g ref="char:EOLhyphen"/>naticks</hi> daily made their Boaſts concerning the Number of their Party; which Confidence made them ſo bold as to extend their Affronts even to his Sacred Majeſty, and which (for ought we knew) might give them hopes to attempt the Subverſion of the Eſta<g ref="char:EOLhyphen"/>bliſh'd Government, which (the better to Accompliſh their Deſign) they had been ſo Induſtrious by Libelling and other baſe Methods to defame: And ſeeing that ſeveral Eſſays were daily made to make his Majeſties Subjects forfeit their Allegiance; and particularly upon our ſelves by ſome that endeavoured to amuſe us with unneceſſary Fears of the loſs of Religion and Trade, and ſuch like ſpecious pretences: We thought it not amiſs (at ſuch a time) according to the Example of our Superiors, humbly to Addreſs our ſelves to his Majeſty, To Acquaint him what a Multitude of Brave Loyal and True-hearted Lads he has near him, whoſe Hearty Affections to his Perſon and Government, and their Loyal Union among themſelves, would make them not afraid when by him Commanded, To Confront the moſt Reſolute and Formidable Rebel: and whoſe Number would render them (if Occaſion ſhould be) no inconſiderable Guard to his Royal Perſon.</p>
+            <p>And therein to convince all the Inſinuating Factious Crue who endeavour to ſeduce us, That we will never again be decoy'd out of our Duty to our Sovereign, and that though the <hi>Papiſts</hi> make the <hi>Phanaticks</hi> their Tools, yet we will never become the <hi>Phanaticks.</hi>
+            </p>
+            <p>To conclude, our Addreſs having been honoured with his Majeſties Princely Appro<g ref="char:EOLhyphen"/>bation; and ſeeing the Deſign of it was Peaceable and Seaſonable, as well as Loyal and Dutiful, the World has no Reaſon to blame it, nor we to be aſham'd to own it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Charles Read.</hi> 1681.</p>
+            <pb facs="tcp:60473:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
